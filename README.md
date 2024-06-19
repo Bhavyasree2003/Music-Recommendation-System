@@ -1,5 +1,5 @@
 # Music-Recommendation-System
-This project was developed as a part of the Machine Learning Lab. It focuses on building a music recommendation system using machine learning techniques.
+This project constructs a music recommendation system using machine learning techniques, specifically K-Means clustering, with the Spotify dataset. It clusters genres and songs based on their audio features to provide personalized song recommendations to users.
 Objective
 ------------
 The objective of this project is to enhance user engagement and satisfaction within digital music platforms by recommending songs that align with users' musical preferences.
